@@ -1,7 +1,7 @@
 ​<h1 align="center"> 🇪‌🇲‌🇺‌🇱‌🇦‌🇹‌🇮‌🇴‌🇳‌</h1>
 
 <details>
-<summary><font size =5>𝓐𝓘𝓜</font></summary>
+<summary><h2>𝓐𝓘𝓜</h2></summary>
 <br>
 Aim is to understand the concept of Emulation.<br>
 How Emulation works ?<br>
@@ -10,7 +10,7 @@ And to emulate a linux based operating system on arm64 architecture
 <br>
 
 <details>
-<summary><font size =5>𝓟𝓻𝓮𝓻𝓮𝓺𝓾𝓲𝓼𝓲𝓽𝓮</font></summary>
+<summary><h2>𝓟𝓻𝓮𝓻𝓮𝓺𝓾𝓲𝓼𝓲𝓽𝓮</h2></summary>
 <br>
 Below are some prerequisite to achieve our aim.
 
@@ -20,7 +20,7 @@ Below are some prerequisite to achieve our aim.
 </details>
 <br>
 <details>
-<summary><font size =5>𝓒𝓸𝓷𝓬𝓮𝓹𝓽 𝓸𝓯 𝓔𝓶𝓾𝓵𝓪𝓽𝓲𝓸𝓲𝓷 & 𝓗𝓸𝔀 𝓔𝓶𝓾𝓵𝓪𝓽𝓲𝓸𝓷 𝔀𝓸𝓻𝓴𝓼</summary>
+<summary><h2>𝓒𝓸𝓷𝓬𝓮𝓹𝓽 𝓸𝓯 𝓔𝓶𝓾𝓵𝓪𝓽𝓲𝓸𝓲𝓷 & 𝓗𝓸𝔀 𝓔𝓶𝓾𝓵𝓪𝓽𝓲𝓸𝓷 𝔀𝓸𝓻𝓴𝓼</h2></summary>
 <br>
 Emulation is a software that enables one computer system to behave like another computer system.<br>
 It enables a host system to run software or use peripheral devices designed for the guest system.<br>
@@ -31,7 +31,7 @@ So the guest system programs think they are running on the same architecture for
 </details>
 <br>
 <details>
-<summary><font size = 5>𝓔𝓶𝓾𝓵𝓪𝓽𝓲𝓷𝓰 𝓪 𝓵𝓲𝓷𝓾𝔁 𝓫𝓪𝓼𝓮𝓭 𝓸𝓹𝓮𝓻𝓪𝓽𝓲𝓷𝓰 𝓼𝔂𝓼𝓽𝓮𝓶 𝓸𝓷 𝓪𝓻𝓶64 𝓪𝓻𝓬𝓱𝓲𝓽𝓮𝓬𝓽𝓾𝓻𝓮</summary>
+<summary><h2>𝓔𝓶𝓾𝓵𝓪𝓽𝓲𝓷𝓰 𝓪 𝓵𝓲𝓷𝓾𝔁 𝓫𝓪𝓼𝓮𝓭 𝓸𝓹𝓮𝓻𝓪𝓽𝓲𝓷𝓰 𝓼𝔂𝓼𝓽𝓮𝓶 𝓸𝓷 𝓪𝓻𝓶64 𝓪𝓻𝓬𝓱𝓲𝓽𝓮𝓬𝓽𝓾𝓻𝓮<h2></summary>
 <br>
 We will be Emulating a Raspian OS
 <p>
@@ -90,7 +90,7 @@ NOTE : DOWNLOAD ALL THE FILES STATED IN THIS DOCUMENT TO A SINGLE FOLDER OR ELSE
 </details>
 <br>
 <details>
-<summary><font size = 5>𝓒𝓸𝓷𝓬𝓵𝓾𝓼𝓲𝓸𝓷</font></summary>
+<summary><h2>𝓒𝓸𝓷𝓬𝓵𝓾𝓼𝓲𝓸𝓷</h2></summary>
 We have successfully emulated an linux based raspbian image on arm64 architecture.
 If you have any suggestions or you found any errors or mistake in this document please feel free to contact by clicking below image. Any kind of updates are welcome too.
 
